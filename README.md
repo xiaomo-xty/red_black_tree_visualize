@@ -1,0 +1,3 @@
+- `make run` 生成json
+- `make visualize_imgage` 生成图片并打开
+- `make visualize_page` 生成网页并打开
