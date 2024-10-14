@@ -1,0 +1,85 @@
+{
+	"key":	7,
+	"val":	65,
+	"color":	"black",
+	"left":	{
+		"key":	3,
+		"val":	43,
+		"color":	"red",
+		"left":	{
+			"key":	1,
+			"val":	432,
+			"color":	"black",
+			"left":	{
+				"key":	0,
+				"val":	32,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			},
+			"right":	{
+				"key":	2,
+				"val":	53,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			}
+		},
+		"right":	{
+			"key":	5,
+			"val":	61,
+			"color":	"black",
+			"left":	{
+				"key":	4,
+				"val":	63,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			},
+			"right":	{
+				"key":	6,
+				"val":	94,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			}
+		}
+	},
+	"right":	{
+		"key":	11,
+		"val":	161,
+		"color":	"black",
+		"left":	{
+			"key":	9,
+			"val":	5645,
+			"color":	"red",
+			"left":	{
+				"key":	8,
+				"val":	3141,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			},
+			"right":	{
+				"key":	10,
+				"val":	4236,
+				"color":	"black",
+				"left":	null,
+				"right":	null
+			}
+		},
+		"right":	{
+			"key":	13,
+			"val":	16645,
+			"color":	"black",
+			"left":	{
+				"key":	12,
+				"val":	56,
+				"color":	"red",
+				"left":	null,
+				"right":	null
+			},
+			"right":	null
+		}
+	}
+}
